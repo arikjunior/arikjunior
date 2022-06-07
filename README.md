@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arikjunior&label=Profile%20views&color=0e75b6&style=flat" alt="arikjunior"/> </p>
 ### Stats
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=arikjunior&show_icons=true) <br>
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=arikjunior&show_icons=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=arikjunior&" alt="arikjunior" /> <br>
 
 ### Connect with me:
 
