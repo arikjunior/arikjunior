@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> 👨🏻‍💻 Junior Front-end & Back-end Developer
+👨🏻‍💻 Junior Front-end & Back-end Developer
 
 ### Stats
 
