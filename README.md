@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Ia Arik
 
 👨🏻‍💻 Junior Front-end & Back-end Developer
 
