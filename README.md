@@ -10,17 +10,17 @@
 [![website](globe-light.svg)](https://arikjunior.github.io#gh-light-mode-only)
 [![website](globe-dark.svg)](https://arikjunior.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](youtube-light.svg)](https://youtube.com/c/ArikJunior11#gh-light-mode-only)
+[![website](youtube-dark.svg)](https://youtube.com/c/ArikJunior11#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](twitter-light.svg)](https://twitter.com/aureyk98#gh-light-mode-only)
+[![website](twitter-dark.svg)](https://twitter.com/aureyk98#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](linkedin-light.svg)](https://linkedin.com/in/dwisyiamnuari#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://linkedin.com/in/dwisyiamnuari#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](instagram-light.svg)](https://instagram.com/arikjunior#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/arikjunior#gh-dark-mode-only)
 
 ### Languages and Tools:
 
