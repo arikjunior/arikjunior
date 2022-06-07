@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![website](globe-light.svg)](https://arikjunior.github.io#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://arikjunior.github.io#gh-light-mode-only)
 [![website](globe-dark.svg)](https://arikjunior.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](youtube-light.svg)](https://youtube.com/c/ArikJunior11#gh-light-mode-only)
