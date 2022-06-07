@@ -7,20 +7,20 @@
 
 ### Connect with me:
 
-[![website](globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](globe-light.svg)](https://arikjunior.github.io#gh-light-mode-only)
+[![website](globe-dark.svg)](https://arikjunior.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
