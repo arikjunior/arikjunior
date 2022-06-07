@@ -9,6 +9,6 @@
 <details>
   <summary>Click👆</summary>
   <pre>
-  🤷‍♂️ Xixixixi
+  🤷‍♂️ Social Media -> [Twitter](https://twitter.com/aureyK98) [Instagram](https://instagram.com/arikjunior/)
   </pre>
 </details>
