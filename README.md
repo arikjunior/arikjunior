@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://arikjunior.github.io#gh-light-mode-only)
-<!-- [![website](./img/globe-dark.svg)](https://arikjunior.github.io#gh-dark-mode-only) -->
+[![website](./img/globe-dark.svg)](https://arikjunior.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/c/ArikJunior11#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/c/ArikJunior11#gh-dark-mode-only)
