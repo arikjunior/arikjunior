@@ -6,7 +6,7 @@
 
 ### Stats
 
-![Arik's github stats](https://github-readme-stats.vercel.app/api?username=arikjunior&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=000&bg_color=fff&count_private=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=arikjunior" alt="arikjunior" /> <br> 
+![Arik's github stats](https://github-readme-stats.vercel.app/api?username=arikjunior&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=000&bg_color=fff&count_private=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=arikjunior" alt="arikjunior" /> <br>
 
 ### Connect with me:
 
