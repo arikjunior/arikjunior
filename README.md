@@ -1,4 +1,4 @@
-### Hi there, Iam Arik 👋
+### Iam Arik 👋
 
 👨🏻‍💻 Junior Front-end & Back-end Developer
 
