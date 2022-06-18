@@ -1,5 +1,5 @@
 ### Iam Arik 👋
-[![Netlify Status](https://api.netlify.com/api/v1/badges/498391ab-afb5-4862-bde1-92d1b76944cd/deploy-status)](https://app.netlify.com/sites/incandescent-horse-d4dc4a/deploys)
+
 👨🏻‍💻 Junior Front-end & Back-end Developer
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arikjunior&label=Profile%20views&color=0e75b6&style=flat" alt="arikjunior"/> </p>
