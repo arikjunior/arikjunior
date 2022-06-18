@@ -1,5 +1,5 @@
 ### Iam Arik 👋
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c9e6702-b97e-4da5-94be-e59369ae9548/deploy-status)](https://app.netlify.com/sites/aureyk-todo-list/deploys)
+
 👨🏻‍💻 Junior Front-end & Back-end Developer
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arikjunior&label=Profile%20views&color=0e75b6&style=flat" alt="arikjunior"/> </p>
